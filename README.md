@@ -1,1 +1,3 @@
 # simple-c-backdoor
+This is my first backdoor .I'm now developing a lot of it funtions like migrating,dll injection,dll side loading,snapshot,.....
+Version 1.0 :Can active cmd,hide console
